@@ -1,0 +1,467 @@
+{
+  "table_of_contents": [
+    {
+      "title": "VITRO: Vocabulary Inversion for Time-series Representation Optimization",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          81.0,
+          53.75390625
+        ],
+        [
+          530.25,
+          53.75390625
+        ],
+        [
+          530.25,
+          102.75
+        ],
+        [
+          81.0,
+          102.75
+        ]
+      ]
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          132.380859375,
+          406.44140625
+        ],
+        [
+          213.75,
+          406.44140625
+        ],
+        [
+          213.75,
+          415.5
+        ],
+        [
+          132.380859375,
+          415.5
+        ]
+      ]
+    },
+    {
+      "title": "II. METHOD",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          146.126953125,
+          238.9921875
+        ],
+        [
+          201.75,
+          238.9921875
+        ],
+        [
+          201.75,
+          248.25
+        ],
+        [
+          146.126953125,
+          248.25
+        ]
+      ]
+    },
+    {
+      "title": "A. Problem Formulation and Overview",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.5,
+          255.234375
+        ],
+        [
+          209.25,
+          255.234375
+        ],
+        [
+          209.25,
+          264.75
+        ],
+        [
+          46.5,
+          264.75
+        ]
+      ]
+    },
+    {
+      "title": "B. Stage 1: Vocabulary Inversion for Time Series",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.5,
+          95.90625
+        ],
+        [
+          515.25,
+          95.90625
+        ],
+        [
+          515.25,
+          105.1875
+        ],
+        [
+          310.5,
+          105.1875
+        ]
+      ]
+    },
+    {
+      "title": "III. EXPERIMENTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          395.25,
+          430.8046875
+        ],
+        [
+          478.5,
+          430.8046875
+        ],
+        [
+          478.5,
+          441.0
+        ],
+        [
+          395.25,
+          441.0
+        ]
+      ]
+    },
+    {
+      "title": "A. Long-term Forecasting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          309.0,
+          659.35546875
+        ],
+        [
+          418.5,
+          659.35546875
+        ],
+        [
+          418.5,
+          669.0
+        ],
+        [
+          309.0,
+          669.0
+        ]
+      ]
+    },
+    {
+      "title": "IV. QUALITATIVE ANALYSIS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          112.359375,
+          498.8671875
+        ],
+        [
+          235.6347198486328,
+          498.8671875
+        ],
+        [
+          235.6347198486328,
+          509.1319580078125
+        ],
+        [
+          112.359375,
+          509.1319580078125
+        ]
+      ]
+    },
+    {
+      "title": "V. CONCLUSION AND FUTURE WORK",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          355.0078125,
+          560.35546875
+        ],
+        [
+          517.9541625976562,
+          560.35546875
+        ],
+        [
+          517.9541625976562,
+          571.4320373535156
+        ],
+        [
+          355.0078125,
+          571.4320373535156
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          145.23046875,
+          50.66015625
+        ],
+        [
+          202.39846801757812,
+          50.66015625
+        ],
+        [
+          202.39846801757812,
+          61.3170166015625
+        ],
+        [
+          145.23046875,
+          61.3170166015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          119
+        ],
+        [
+          "Span",
+          78
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          140
+        ],
+        [
+          "Span",
+          121
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          419
+        ],
+        [
+          "TableCell",
+          128
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          308
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Reference",
+          20
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/1_2412.17921v1"
+}
